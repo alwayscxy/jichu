@@ -1,2 +1,2 @@
 # jichu
-学习github
+学习github，加油
